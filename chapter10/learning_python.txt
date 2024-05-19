@@ -1,0 +1,6 @@
+I have learned so many cool concepts in Python.
+In Python you can store values as variables and work with them.
+In Python you can also store large number of values using data structures such as lists, tuples, dictionary etc.,
+In Python you can create small block of code to perform repeatable tasks called functions.
+In Python you can represent real world objects using classes.
+In Python you can get user input and work based on that.
